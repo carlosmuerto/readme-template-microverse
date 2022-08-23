@@ -1,3 +1,5 @@
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
 # Project Name
 
 > One paragraph statement about the project.
@@ -23,16 +25,45 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+#### Step 1:
+- Clone this repo locally using git and the following git command
+	```bash 
+	git clone https://github.com/carlosmuerto/to-do-list-webpack
+	```
+- or with GitHub CLI
+	```bash
+	gh repo clone carlosmuerto/to-do-list-webpack
+	```
 
-### Install
+#### Step 2:
 
-### Usage
+- install dependency
+	```bash
+	npm install
+	```
 
-### Run tests
+#### Step 3:
 
-### Deployment
+- Run dev server
+	```bash
+	npm start
+	```
 
+#### Other Consideration
+- to Run a Compliler
+	```bash
+	npm run build
+	``` 
+	and to a Watch Compliler
+	```bash
+	npm run watch
+	```
+  
+#### Deploy
+- to deploy
+	```bash
+	npm run deploy
+	```
 
 
 ## Authors
