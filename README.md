@@ -191,9 +191,11 @@ Example:
 > Mention all of the collaborators of this project.
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 Carlos Vivas
+
+- GitHub: [@carlosmuerto](https://github.com/carlosmuerto)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-vivas-818ab831/)
+
 
 👤 **Author2**
 
